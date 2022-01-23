@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Jelly',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -42,38 +42,26 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://github.com/JellyPumps',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://gmail.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
-    },
-    {
-      id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
       name: 'Reddit',
       icon: 'glasses',
       link: 'https://reddit.com',
     },
     {
-      id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
-    },
+      id: '4',
+      name: 'TranscribersOfReddit',
+      icon: 'trello',
+      link: 'https://reddit.com/r/TranscribersOfReddit',
+    }
   ],
 
   // ┬  ┬┌─┐┌┬┐┌─┐
@@ -88,38 +76,34 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Feel Good inc. Radio',
+        link: 'https://open.spotify.com/playlist/37i9dQZF1E8GJRbsFHwpXF',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Sweater Weather Radio',
+        link: 'https://open.spotify.com/playlist/37i9dQZF1E8zAgzJXDi5Wo',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
+        name: 'Black Rover Radio',
+        link: 'https://open.spotify.com/playlist/37i9dQZF1E8zKwjYTZ0jpW',
+      }
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Reverso Context',
+        link: 'https://context.reverso.net/translation/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'UptimeBot',
+        link: 'https://uptimerobot.com/dashboard#789471433',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Kaffine',
+        link: 'https://kaffeine.herokuapp.com/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: '小説を読もう！ || 小説ランキング',
+        link: 'https://yomou.syosetu.com/rank/top/',
       },
     ],
   },

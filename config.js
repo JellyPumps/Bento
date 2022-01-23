@@ -93,9 +93,9 @@ const CONFIG = {
         name: 'Reverso Context',
         link: 'https://context.reverso.net/translation/',
       },
-      {
-        name: 'UptimeBot',
-        link: 'https://uptimerobot.com/dashboard#789471433',
+    {
+        name: 'Wanikani',
+        link: 'https://www.wanikani.com/lesson/session' 
       },
       {
         name: 'Kaffine',
@@ -104,10 +104,6 @@ const CONFIG = {
       {
         name: '小説を読もう！ || 小説ランキング',
         link: 'https://yomou.syosetu.com/rank/top/',
-      },
-      {
-        name: 'Wanikani',
-        link: 'https://www.wanikani.com/lesson/session' 
       },
     ],
   },

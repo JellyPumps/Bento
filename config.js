@@ -86,7 +86,7 @@ const CONFIG = {
       {
         name: 'Black Rover Radio',
         link: 'https://open.spotify.com/playlist/37i9dQZF1E8zKwjYTZ0jpW',
-      }
+      },
     ],
     secondList: [
       {
@@ -104,6 +104,10 @@ const CONFIG = {
       {
         name: '小説を読もう！ || 小説ランキング',
         link: 'https://yomou.syosetu.com/rank/top/',
+      },
+      {
+        name: 'Wanikani',
+        link: 'https://www.wanikani.com/lesson/session' 
       },
     ],
   },

@@ -94,8 +94,8 @@ const CONFIG = {
         link: 'https://context.reverso.net/translation/',
       },
     {
-        name: 'Wanikani',
-        link: 'https://www.wanikani.com/lesson/session' 
+        name: 'RedditPreview',
+        link: 'https://www.redditpreview.com' 
       },
       {
         name: 'Kaffine',

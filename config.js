@@ -93,6 +93,10 @@ const CONFIG = {
         name: 'Reverso Context',
         link: 'https://context.reverso.net/translation/',
       },
+      {
+        name: 'TanoshiiJapanese',
+        link: 'tanoshiijapanese.com',
+      },
     {
         name: 'RedditPreview',
         link: 'https://www.redditpreview.com' 

@@ -95,7 +95,7 @@ const CONFIG = {
       },
       {
         name: 'TanoshiiJapanese',
-        link: 'tanoshiijapanese.com',
+        link: 'https://www.tanoshiijapanese.com',
       },
     {
         name: 'RedditPreview',
